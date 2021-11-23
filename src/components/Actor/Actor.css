@@ -1,0 +1,49 @@
+.all-actors{
+    justify-content: center;
+align-items: center;
+
+}
+ 
+.actor{
+padding: 10px;
+height:450px;
+margin-bottom: 20px;
+
+
+text-align: center;
+margin-top: 20px;
+background-color: black;
+opacity: .8;
+margin-left: 20px;
+
+} 
+.actor:hover{
+    background-color: blanchedalmond;
+}
+
+.actor img{
+    width:200px;
+    height: 200px;
+    
+
+}
+
+.btn-add{
+    background-color: crimson;
+    width: 150px;
+    height: 30px;
+    border: 1px solid crimson;
+    border-radius: 5px;
+    color: wheat;
+    cursor: pointer;
+}
+.btn-add:disabled{
+    background:  #fff;
+    
+    cursor: no-drop;
+    text-decoration: none;
+ }
+
+.title-color{
+    color: rgb(122, 82, 8);
+}

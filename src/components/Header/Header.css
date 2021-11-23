@@ -1,0 +1,13 @@
+
+.header{
+    text-align: center;
+    background-color: rgb(59, 53, 53);
+    opacity: .8;
+    color: white;
+    margin-left: 20px;
+    height: 150px;
+    margin-right: 20px;
+}
+.text-color{
+    color: blanchedalmond;
+}
